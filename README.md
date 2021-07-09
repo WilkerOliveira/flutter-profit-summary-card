@@ -1,1 +1,1 @@
-# flutter-profit-summary-card
+# flutter_profit_summary_card
