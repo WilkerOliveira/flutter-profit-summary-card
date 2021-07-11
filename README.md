@@ -4,7 +4,7 @@ Criar o card "Seu Resumo" do feed do novo aplicativo do Fliper, consumindo os da
 
 ## Para execução
 
-Executar: flutter pub run build_runner build --delete-conflicting-outputs
+Antes de executar o app: flutter pub run build_runner build --delete-conflicting-outputs
 
 ## Contem:
 
